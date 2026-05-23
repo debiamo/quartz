@@ -1,46 +1,43 @@
 ---
-title: Welcome to Quartz 4
+title: IT Systems & Service — IT-аутсорсинг в Атырау
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+# IT-аутсорсинг и обслуживание компьютеров в Атырау
 
-## 🪴 Get Started
+Компания **ТОО «IT Systems & Service»** работает на рынке компьютерной техники и программного обеспечения РК с середины 2007 года. Представляем продукты фирм Hewlett-Packard, D-Link, Microsoft, ESET, Symantec и предоставляем услуги по комплексному сервисному обслуживанию компьютерной и периферийной техники.
 
-Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
+> **Без технической поддержки ваш бизнес уязвим!**
 
-Then, in your terminal of choice, enter the following commands line by line:
+## Основные направления деятельности
 
-```shell
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
+- [[услуги/it-аутсорсинг|IT-аутсорсинг]] — предоставление услуг в сфере информационных технологий
+- [[услуги/поставка-по|Поставка лицензионного ПО]] ведущих мировых фирм-производителей
+- [[услуги/поставка-оборудования|Поставка компьютерной техники]], в том числе серверного оборудования HP
+- [[услуги/сети|Монтаж, ремонт и настройка ЛВС]]
+- [[услуги/удаленное-администрирование|Удалённое администрирование]] серверов и рабочих станций
+- Поставка расходных материалов для оргтехники
 
-This will guide you through initializing your Quartz with content. Once you've done so, see how to:
+## Тарифные планы
 
-1. [[authoring content|Writing content]] in Quartz
-2. [[configuration|Configure]] Quartz's behaviour
-3. Change Quartz's [[layout]]
-4. [[build|Build and preview]] Quartz
-5. Sync your changes with [[setting up your GitHub repository|GitHub]]
-6. [[hosting|Host]] Quartz online
+| План | Выезды в месяц | Цена от (за станцию) |
+|---|---|---|
+| [[тарифы/техническая-поддержка\|Техническая поддержка]] | 2 в квартал + 5 экстренных | 2 500 ₸/квартал |
+| [[тарифы/комплексное-обслуживание\|Комплексное обслуживание]] | 1–4 планов + 3–4 экстренных | 3 500 ₸/месяц |
+| [[тарифы/системный-администратор\|Системный администратор]] | 8 + неограниченные экстренные | 6 500 ₸/месяц |
 
-If you prefer instructions in a video format you can try following Nicole van der Hoeven's
-[video guide on how to set up Quartz!](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s)
+## Почему выбирают ITSS
 
-## 🔧 Features
+1. **Адекватные цены** — дешевле, чем содержать штатного сисадмина
+2. **Строгое соблюдение договора** — приедем в оговорённое время или решим удалённо
+3. **Скидки** — при количестве компьютеров свыше 15
+4. **Нет лишних платежей** — только те услуги, которые нужны вашему предприятию
+5. **Полный пакет «под ключ»** — от консультации до ввода оборудования в эксплуатацию
 
-- [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks|wikilinks, transclusions]], [[backlinks]], [[features/Latex|Latex]], [[syntax highlighting]], [[popover previews]], [[Docker Support]], [[i18n|internationalization]], [[comments]] and [many more](./features/) right out of the box
-- Hot-reload on configuration edits and incremental rebuilds for content edits
-- Simple JSX layouts and [[creating components|page components]]
-- [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
-- Fully-customizable parsing, filtering, and page generation through [[making plugins|plugins]]
+## Контакты
 
-For a comprehensive list of features, visit the [features page](./features/). You can read more about the _why_ behind these features on the [[philosophy]] page and a technical overview on the [[architecture]] page.
+- 📍 Республика Казахстан, 060000, г. Атырау, ул. Гумарова 88А
+- 📞 +7 (7122) 20-13-42
+- 📱 +7 (777) 275-02-95
+- ✉️ itss.atyrau@gmail.com
 
-### 🚧 Troubleshooting + Updating
-
-Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
-
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
+[[об-itss|Подробнее о компании →]]
